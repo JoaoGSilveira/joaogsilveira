@@ -1,7 +1,7 @@
 ### Olá, sou o João Guilherme Silveira 👋
 Sou programador e estudante da FATEC JAHU.
 
-![imagem14](https://github.com/JoaoGSilveira/JoaoGSiveira/assets/125415392/5e7a90e5-3c7a-4e3b-8953-48b00c60fc8c)
+![imagem14](https://github.com/JoaoGSilveira/joaogsilveira/assets/125415392/0f534782-416e-4f7c-9dec-11e2e11a5b50)
 
 ### Minhas redes sociais:
 
