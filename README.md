@@ -23,7 +23,7 @@ Sou programador e estudante da FATEC JAHU.
 [![Linguagens](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Linguagens](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
-### Linguagens dos meus repositórios:
+### Linguagens utilizada nos meus repositórios:
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGSilveira&theme=blue-green)]()
 
