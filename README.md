@@ -1,5 +1,5 @@
 ## Olá, sou o João Guilherme Silveira 👋
-Sou programador e estudante da FATEC JAHU.
+Sou estudante da FATEC JAHU e futuro desenvolvedor FULL-STACK.
 
 ![imagem14](https://github.com/JoaoGSilveira/joaogsilveira/assets/125415392/bf277aed-fa8a-47b8-96ca-564e697c052f)
 
